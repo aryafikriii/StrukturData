@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1641123909 source:d:\documents\kuliah\semester iii\struktur data\tugas besar\plethora tubs\layartancap21.cpp
+	"LayarTancap21.h"
+
+1640664442 d:\documents\kuliah\semester iii\struktur data\tugas besar\plethora tubs\layartancap21.h
+	<iostream>
+	<string>
+	<conio.h>
+
+1640409822 source:d:\documents\kuliah\semester iii\struktur data\tugas besar\plethora tubs\main.cpp
+	<iostream>
+	"LayarTancap21.h"
+
